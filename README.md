@@ -7,6 +7,6 @@ v16.19.1
 ## Installation
 ### `npm install`
 ## Run on Device
-### `npm start`
+### `npm start` / `expo start` `npx expo start`
 ### Libraries used:
 react-hook-form, expo-image-picker, react-native-picker
